@@ -17,9 +17,8 @@ I'm a **Technical Data Engineer at Airbus**, actively expanding my expertise in 
 
 ### 📌 Featured Projects
 
-- **[Project 1 Name](https://github.com/your-username/project-1)** — Web application built with Python/Django and SQL database integration.
-- **[Project 2 Name](https://github.com/your-username/project-2)** — Low-level data processing and algorithmic implementations in C & Python.
-- **[Project 3 Name](https://github.com/your-username/project-3)** — Interactive front-end and API interface built with JavaScript, HTML, and Python.
+- **[Stellar Voyager]([https://github.com/your-username/project-1](https://github.com/Michaelllllllllllllll/StellarVoyager))** — Interplanetary trajectory optimization using Hohmann transfer orbits to minimize propellant consumption ($\Delta v$).
+-...
 
 ---
 
