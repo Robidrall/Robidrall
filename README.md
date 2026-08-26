@@ -17,8 +17,7 @@ I'm a **Technical Data Engineer at Airbus**, actively expanding my expertise in 
 
 ### 📌 Featured Projects
 
-- **[Stellar Voyager]([https://github.com/your-username/project-1](https://github.com/Michaelllllllllllllll/StellarVoyager))** — Interplanetary trajectory optimization using Hohmann transfer orbits to minimize propellant consumption ($\Delta v$).
--...
+- **[Stellar Voyager]((https://github.com/Michaelllllllllllllll/StellarVoyager))** — Interplanetary trajectory optimization using Hohmann transfer orbits to minimize propellant consumption ($\Delta v$).
 
 ---
 
