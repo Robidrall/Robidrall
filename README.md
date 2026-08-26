@@ -25,4 +25,4 @@ I'm a **Technical Data Engineer at Airbus**, actively expanding my expertise in 
 
 - **LinkedIn:** [romain-robillard](https://www.linkedin.com/in/romain-robillard/)
 - **Freelance Inquiries & Email:** [romain.robillard002@gmail.com](mailto:romain.robillard002@gmail.com)
-- - **X (Twitter):** [@RomainRobi_](https://x.com/RomainRobi_)
+- **X (Twitter):** [@RomainRobi_](https://x.com/RomainRobi_)
