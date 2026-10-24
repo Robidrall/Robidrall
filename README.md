@@ -18,6 +18,7 @@ I'm a **Technical Data Engineer at Airbus**, actively expanding my expertise in 
 ### 📌 Featured Projects
 
 - **[Stellar Voyager](https://github.com/Michaelllllllllllllll/StellarVoyager)** — Interplanetary trajectory optimization using Hohmann transfer orbits to minimize propellant consumption ($\Delta v$).
+- **[@CompteurNE Bot](https://x.com/CompteurNE)** — Automated data tracking & broadcast pipeline running on GitHub Actions. Scrapes dynamic metrics, protects against stale cache rollbacks, generates high-res data visual cards via headless Playwright, and auto-publishes updates to X and email.
 
 ---
 
